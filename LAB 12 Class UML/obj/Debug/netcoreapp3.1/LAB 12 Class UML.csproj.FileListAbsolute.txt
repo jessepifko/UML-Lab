@@ -1,0 +1,13 @@
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.exe
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.deps.json
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.runtimeconfig.json
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.runtimeconfig.dev.json
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.dll
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\bin\Debug\netcoreapp3.1\LAB 12 Class UML.pdb
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.AssemblyInfoInputs.cache
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.AssemblyInfo.cs
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.dll
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.pdb
+C:\Users\Jesse\source\repos\LAB 12 Class UML\LAB 12 Class UML\obj\Debug\netcoreapp3.1\LAB 12 Class UML.genruntimeconfig.cache
